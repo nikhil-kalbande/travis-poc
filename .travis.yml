@@ -1,0 +1,4 @@
+import:
+  - testimp.yml
+script:
+  - echo "In travis yml"
