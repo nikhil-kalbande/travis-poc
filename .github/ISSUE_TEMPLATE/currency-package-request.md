@@ -7,9 +7,15 @@ assignees: ''
 
 ---
 
-Currency Package Request
-From - <email id>
+***Currency Package Request***
+**Email id of submitter**
+<email id>
 
-Package Name - <Package Name>
-Github URL - < Github URL> 
-Package Version - < Package version>
+**Package Name**
+<Package Name>
+
+**Github URL of source**
+<Github URL> 
+
+**Package Version**
+<Package version>
