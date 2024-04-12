@@ -1,0 +1,28 @@
+name: Currency_Dashboard_Feedback
+title: Dashboard_Feedback
+description: "Feedback or Bug report for currency dashboard"
+labels: "feedback"
+projects: "Currency_Tracker"
+assignees: "ICH"
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Github is reserved for bug or feddback reports for Currency Dashboard. Also to request currency for any package and report currency issues for any package.
+
+        Please fill in the following details to provide feedback for Currency Dashboard:
+  - type: input
+    id: dashboard_version
+    attributes:
+      label: Currency Dashboard Version
+      description: >-
+        The package name you want to be supported on power e.g. redis, elasticsearch
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: Feddback Details
+      description: A description of the problem or feedback on Currency Dashboard usage.
+    validations:
+      required: true
