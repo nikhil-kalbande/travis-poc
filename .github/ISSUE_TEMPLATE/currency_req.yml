@@ -1,4 +1,4 @@
-name: Request
+name: Currency_Request
 title: Currency_Req
 description: "Request to add support for any package with specific version on ppc64le"
 labels: [">enhancement", "needs:triage"]
