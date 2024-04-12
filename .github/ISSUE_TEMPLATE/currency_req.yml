@@ -2,8 +2,8 @@ name: Request
 title: Currency_Req
 description: "Request to add support for any package with specific version on ppc64le"
 labels: [">enhancement", "needs:triage"]
-projects: Currency Request Tracker
-assignees: ICH
+projects: "Currency Request Tracker"
+assignees: "ICH"
 body:
   - type: markdown
     attributes:
