@@ -14,7 +14,7 @@ body:
     id: dashboard_version
     attributes:
       label: Currency Dashboard Version
-      description: >-
+      description: |
         The version of Currency Dashboard on which you see behavior or registering your feedback for dashboard.
     validations:
       required: true
