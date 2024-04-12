@@ -1,4 +1,4 @@
-name: Currency_Request
+name: Currency Request
 title: Currency_Req
 description: "Request to add support for any package with specific version on ppc64le"
 labels: [">enhancement", "needs:triage"]
@@ -10,7 +10,6 @@ body:
       value: >
         Github is reserved for bug reports and feature requests; it is
         not the place for general questions. 
-
         Please fill in the following details to request Currency for a package:
   - type: input
     id: pkg_name
